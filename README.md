@@ -1,0 +1,2 @@
+# PLATEAUconcierge
+PLATEAUに関連するドキュメントを収集し ChatGPT の GPTs に放り込むためのドキュメント集約プロジェクト
